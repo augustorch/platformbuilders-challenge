@@ -1,7 +1,7 @@
 # platformbuilders-challenge
 
 ## Challenge 
-Desenho da arquitetura feito usando componentes de algumas das clouds listadas, e atendendo aos requisitos do cliente
+Desenho da arquitetura feito usando componentes de algumas das clouds (GCP, AWS ou Azure), e atendendo aos requisitos do cliente.
 
 ## Flags 
 - [x] Desenhar a arquitetura no draw.io 
